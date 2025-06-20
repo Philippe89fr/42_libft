@@ -8,13 +8,13 @@ Part of 42 Common Core.
 
 # Main Technologies / Skills Used:
 
-- **Programming Languages: C
-- **Memory Management - Dynamic allocation, pointer manipulation, avoiding memory leaks (ft_memset, ft_bzero, ft_memcpy, etc.)
-- **String Manipulation - Character arrays, string parsing, concatenation, trimming  (ft_strlen, ft_strcpy, ft_strcat, etc.)
-- **Linked Lists - (ft_lstnew, ft_lstadd_front, ft_lstsize, etc.)
-- **Type Conversion (ft_atoi, ft_itoa, etc.)
-- **Math Operations (ft_abs, ft_pow, etc.)
-- **System Programming - File descriptors, low-level I/O operations (ft_putchar_fd, ft_putstr_fd, ft_putendl_fd etc.)
+- **Programming Languages: C**
+- **Memory Management:** Dynamic allocation, pointer manipulation, avoiding memory leaks (ft_memset, ft_bzero, ft_memcpy, etc.)
+- **String Manipulation:** Character arrays, string parsing, concatenation, trimming  (ft_strlen, ft_strcpy, ft_strcat, etc.)
+- **Linked Lists:** (ft_lstnew, ft_lstadd_front, ft_lstsize, etc.)
+- **Type Conversion:** (ft_atoi, ft_itoa, etc.)
+- **Math Operations:** (ft_abs, ft_pow, etc.)
+- **System Programming:** File descriptors, low-level I/O operations (ft_putchar_fd, ft_putstr_fd, ft_putendl_fd etc.)
 
 # Installation and compilation
 1. Clone this repository into your project:
